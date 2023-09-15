@@ -1,14 +1,14 @@
 [
   {
     "name": "First Wallpaper",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "url": "https://github.com/ArYan339/Wallapper/blob/main/1.jpg"
   },
   {
     "name": "Second Wallpaper",
-    "url": "https://www.example.com/second-wallpaper.png"
+    "url": "https://github.com/ArYan339/Wallapper/blob/main/2.jpg"
   },
   {
     "name": "Third Wallpaper",
-    "url": "https://www.example.com/third-wallpaper.png"
+    "url": "https://github.com/ArYan339/Wallapper/blob/main/3.jpg"
   }
 ]
