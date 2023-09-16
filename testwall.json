@@ -1,14 +1,38 @@
 [
   {
-    "name": "First Wallpaper",
-    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/1.jpg"
+    "name": "Baby Girl 1",
+    "collections": "Girl",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/1.jpg",
+    "author": "Rajnish"
   },
   {
-    "name": "Second Wallpaper",
-    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/2.jpg"
+    "name": "Baby Girl 2",
+    "collections": "Girl",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/2.jpg",
+    "author": "Rajnish"
   },
   {
-    "name": "Third Wallpaper",
-    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/3.jpg"
+    "name": "Baby Girl 3",
+    "collections": "Girl",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/3.jpg",
+    "author": "Rajnish"
+  },
+  {
+    "name": "Floral 1",
+    "collections": "Floral",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/4.jpg",
+    "author": "Rajnish"
+  },
+  {
+    "name": "Floral 2",
+    "collections": "Floral",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/5.jpg",
+    "author": "Rajnish"
+  },
+  {
+    "name": "Floral 3",
+    "collections": "Floral",
+    "url": "https://raw.githubusercontent.com/ArYan339/testwall.json/main/6.jpg",
+    "author": "Rajnish"
   }
 ]
